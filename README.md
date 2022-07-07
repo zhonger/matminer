@@ -31,3 +31,14 @@ Matminer helps users apply methods and data sets developed by the community. Ple
 - If you use one or more **datasets** accessed through matminer, check the dataset metadata info for relevant citations on the original datasets.
 - If you use one or more **data retrieval methods**, check ``citations()`` method of the data retrieval class. This method will provide a list of BibTeX-formatted citations for that featurizer, making it easy to keep track of and cite the original publications.
 - If you use one or more **featurizers**, please take advantage of the ```citations()``` function present for every featurizer in matminer. 
+
+
+#### More element properties
+
+We added many elements properties, such Period, Group, Family and so on.
+
+Here is the data source -- the Supplementary Data of this article:
+
+```
+Wang, T., Zhang, K., Thé, J., & Yu, H. (2022). Accurate prediction of band gap of materials using stacking machine learning model. Computational Materials Science, 201, 110899.
+```
